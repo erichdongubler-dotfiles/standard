@@ -54,7 +54,6 @@ track of, esp. when automating a new platform. This document does that for me.
       repo](https://github.com/erichdongubler-dotfiles/starship)
 1. [`atuin`](https://github.com/atuinsh/atuin), with Erich's [`atuin` dotfiles
    repo](https://github.com/erichdongubler-dotfiles/atuin)
-1. [`firefox`](https://firefox.com)
 1. [`espanso`](https://espanso.org), with Erich's [`espanso` dotfiles
    repo](https://github.com/erichdongubler-dotfiles/espansoo)
 1. `mdlink` with Erich's
@@ -62,6 +61,8 @@ track of, esp. when automating a new platform. This document does that for me.
    dotfiles
 1. [`neovim`](https://github.com/neovim/neovim), with Erich's [`neovim`
    dotfiles repo](https://github.com/erichdongubler-dotfiles/neovim)
+1. [`firefox`](https://firefox.com)
+   repo](https://github.com/erichdongubler-dotfiles/espansoo)
 1. [`fzf`](https://github.com/junegunn/fzf)
 1. A good 3-way merge tool, preferably [`meld`](https://meldmerge.org/)
 1. Cargo toolchain
