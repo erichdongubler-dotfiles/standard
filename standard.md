@@ -59,7 +59,8 @@ set. This is independent of machine productivity tier.
 ## Preferred binaries/applications
 
 1. A terminal that supports subsequent terminal UIs, preferably
-   [`wezterm`](https://github.com/wezfurlong/wezterm)
+   [`wezterm`](https://github.com/wezfurlong/wezterm) with Erich's
+   [`wezterm` dotfiles](https://github.com/erichdongubler-dotfiles/wezterm)
 1. [Jujutsu](https://jj-vcs.dev)
 1. [`bellboy`](https://github.com/erichdongubler/bellboy) -- for dotfiles
    management
