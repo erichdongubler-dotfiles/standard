@@ -1,4 +1,4 @@
-# 0.1.0
+# 0.2.0
 
 This standard specifies @ErichDonGubler's preferred desktop environment as a set
 of features and tiers. The remainder of this document will be written in
