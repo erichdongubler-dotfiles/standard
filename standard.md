@@ -61,8 +61,9 @@ track of, esp. when automating a new platform. This document does that for me.
 1. [`fzf`](https://github.com/junegunn/fzf)
 1. A good 3-way merge tool, preferably [`meld`](https://meldmerge.org/)
 1. Cargo toolchain
-   1. [`rust-analyzer`](https://rust-analyzer.github.io)
    1. [`rustup`](https://rustup.rs)
+   1. [`rust-analyzer`](https://rust-analyzer.github.io),
+      likely through the correspondent `rustup` component
 1. [`fd`](https://github.com/sharkdp/fd)
 1. [`rg`](https://github.com/burntsushi/ripgrep)
 1. [`delta`](https://github.com/dandavison/delta)
