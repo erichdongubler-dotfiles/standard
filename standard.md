@@ -38,15 +38,21 @@ this into multipler tiers:
 1. `full`: The final difficult-to-obtain window management behaviors that
    I prefer, but aren't realistic in all graphical environments.
 
+### `tailscale`
+
+If I fully own the device, I also prefer to add add the `tailscale` feature
+set. This is independent of machine productivity tier.
+
 ## Features
 
-| Feature description                                                                   | `minimal` | `productive` | `full` |
-| ------------------------------------------------------------------------------------- | --------- | ------------ | ------ |
-| 1: Installs `git`, `patch`                                                            | ✔         | ✔            | ✔      |
-| 2: Installs an `ssh` client                                                           | ✔         | ✔            | ✔      |
-| 3: Installs [Erich's preferred binaries/applications][preferred-bins] and his config. | ❌        | ✔            | ✔      |
-| 4: Enables focus-follows-mouse                                                        | ❌        | ❌           | ✔      |
-| 5: Enables window dragging with a modifier key (preferably <kbd>Alt</kbd>)            | ❌        | ❌           | ✔      |
+| Feature description                                                                   | `minimal` | `productive` | `full` | `tailscale` |
+| ------------------------------------------------------------------------------------- | --------- | ------------ | ------ | ----------- |
+| 1: Installs `git`, `patch`                                                            | ✔         | ✔            | ✔      | -           |
+| 2: Installs an `ssh` client                                                           | ✔         | ✔            | ✔      | -           |
+| 3: Installs [Erich's preferred binaries/applications][preferred-bins] and his config. | ❌        | ✔            | ✔      | -           |
+| 4: Enables focus-follows-mouse                                                        | ❌        | ❌           | ✔      | -           |
+| 5: Enables window dragging with a modifier key (preferably <kbd>Alt</kbd>)            | ❌        | ❌           | ✔      | -           |
+| 6: Registers the device on Erich's personal `tailscale`                               | -         | -            | -      | ✔           |
 
 [preferred-bins]: #preferred-binaries-applications
 
