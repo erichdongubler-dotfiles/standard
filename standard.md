@@ -64,6 +64,7 @@ track of, esp. when automating a new platform. This document does that for me.
    1. [`rustup`](https://rustup.rs)
    1. [`rust-analyzer`](https://rust-analyzer.github.io),
       likely through the correspondent `rustup` component
+   1. [`cargo-binstall`](https://github.com/cargo-bins/cargo-binstall)
 1. [`fd`](https://github.com/sharkdp/fd)
 1. [`rg`](https://github.com/burntsushi/ripgrep)
 1. [`delta`](https://github.com/dandavison/delta)
