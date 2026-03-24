@@ -40,6 +40,8 @@ track of, esp. when automating a new platform. This document does that for me.
 
 ## Preferred binaries/applications
 
+1. A terminal that supports subsequent terminal UIs, preferably
+   [`wezterm`](https://github.com/wezfurlong/wezterm)
 1. [`bellboy`](https://github.com/erichdongubler/bellboy) -- for dotfiles
    management
 1. [`nushell`](https://github.com/nushell/nushell), which implements
@@ -52,8 +54,6 @@ track of, esp. when automating a new platform. This document does that for me.
 1. [`atuin`](https://github.com/atuinsh/atuin), with Erich's [`atuin` dotfiles
    repo](https://github.com/erichdongubler-dotfiles/atuin)
 1. [`firefox`](https://firefox.com)
-1. A terminal that supports subsequent terminal UIs, preferably
-   [`wezterm`](https://github.com/wezfurlong/wezterm)
 1. [Jujutsu](https://jj-vcs.dev)
 1. [`espanso`](https://espanso.org), with Erich's [`espanso` dotfiles
    repo](https://github.com/erichdongubler-dotfiles/espansoo)
