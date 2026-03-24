@@ -59,7 +59,7 @@ track of, esp. when automating a new platform. This document does that for me.
 1. [`neovim`](https://github.com/neovim/neovim), with Erich's [`neovim`
    dotfiles repo](https://github.com/erichdongubler-dotfiles/neovim)
 1. [`fzf`](https://github.com/junegunn/fzf)
-1. A good 3-way merge tool, preferably [`p4merge`](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)
+1. A good 3-way merge tool, preferably [`meld`](https://meldmerge.org/)
 1. Cargo toolchain
    1. [`rust-analyzer`](https://rust-analyzer.github.io)
    1. [`rustup`](https://rustup.rs)
