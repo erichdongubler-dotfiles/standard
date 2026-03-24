@@ -12,11 +12,17 @@ might need. I automate the setup of my desktop environments, but the
 requirements of what I'd like to keep between platforms can be hard to keep
 track of, esp. when automating a new platform. This document does that for me.
 
-## Tiers
+## Feature Sets
+
+### Machine Productivity Tiers
+
+Machine productivity depends greatly on what I can install onto a device. In
+turn, this is dependent on how much influence I'm allowed over it. I've split
+this into multipler tiers:
 
 1. `minimal`: basically sufficient to use `git` to push changes to
    source control somewhere. Most useful for embedded devices or servers
-   that I wouldn't benefit from setting up a desktop environment
+   that I couldn't benefit from setting up a desktop environment
    for. Production debugging and fixing, for example.
 
 1. `productive`: The majority of my environment, containing:
@@ -25,8 +31,12 @@ track of, esp. when automating a new platform. This document does that for me.
    1. Web browsing ecosystem
    1. Software developer environment
 
+   Suitable for environments where I'm allowed to install
+   non-security-sensitive things, like corporate workstations that nominally
+   belong to me.
+
 1. `full`: The final difficult-to-obtain window management behaviors that
-   I prefer.
+   I prefer, but aren't realistic in all graphical environments.
 
 ## Features
 
