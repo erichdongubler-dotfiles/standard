@@ -46,6 +46,9 @@ track of, esp. when automating a new platform. This document does that for me.
 1. [Jujutsu](https://jj-vcs.dev)
 1. [`espanso`](https://espanso.org), with Erich's [`espanso` dotfiles
    repo](https://github.com/erichdongubler-dotfiles/espansoo)
+1. `mdlink` with Erich's
+   [`mdlink`](https://github.com/erichdongubler-dotfiles/mdlink)
+   dotfiles
 1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [`bellboy`](https://github.com/erichdongubler/bellboy) -- for dotfiles
    management
