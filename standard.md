@@ -52,6 +52,8 @@ track of, esp. when automating a new platform. This document does that for me.
       [`starship`](https://starship.rs), with Erich's [`starship`
       dotfiles
       repo](https://github.com/erichdongubler-dotfiles/starship)
+1. [`neovim`](https://github.com/neovim/neovim), with Erich's [`neovim`
+   dotfiles repo](https://github.com/erichdongubler-dotfiles/neovim)
 1. [`atuin`](https://github.com/atuinsh/atuin), with Erich's [`atuin` dotfiles
    repo](https://github.com/erichdongubler-dotfiles/atuin)
 1. [`espanso`](https://espanso.org), with Erich's [`espanso` dotfiles
@@ -59,8 +61,6 @@ track of, esp. when automating a new platform. This document does that for me.
 1. `mdlink` with Erich's
    [`mdlink`](https://github.com/erichdongubler-dotfiles/mdlink)
    dotfiles
-1. [`neovim`](https://github.com/neovim/neovim), with Erich's [`neovim`
-   dotfiles repo](https://github.com/erichdongubler-dotfiles/neovim)
 1. [`firefox`](https://firefox.com)
    repo](https://github.com/erichdongubler-dotfiles/espansoo)
 1. [`fzf`](https://github.com/junegunn/fzf)
