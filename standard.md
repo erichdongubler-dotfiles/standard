@@ -40,15 +40,6 @@ track of, esp. when automating a new platform. This document does that for me.
 
 ## Preferred binaries/applications
 
-1. [`firefox`](https://firefox.com)
-1. A terminal that supports subsequent terminal UIs, preferably
-   [`wezterm`](https://github.com/wezfurlong/wezterm)
-1. [Jujutsu](https://jj-vcs.dev)
-1. [`espanso`](https://espanso.org), with Erich's [`espanso` dotfiles
-   repo](https://github.com/erichdongubler-dotfiles/espansoo)
-1. `mdlink` with Erich's
-   [`mdlink`](https://github.com/erichdongubler-dotfiles/mdlink)
-   dotfiles
 1. [`bellboy`](https://github.com/erichdongubler/bellboy) -- for dotfiles
    management
 1. [`nushell`](https://github.com/nushell/nushell), which implements
@@ -58,6 +49,15 @@ track of, esp. when automating a new platform. This document does that for me.
       [`starship`](https://starship.rs), with Erich's [`starship`
       dotfiles
       repo](https://github.com/erichdongubler-dotfiles/starship)
+1. [`firefox`](https://firefox.com)
+1. A terminal that supports subsequent terminal UIs, preferably
+   [`wezterm`](https://github.com/wezfurlong/wezterm)
+1. [Jujutsu](https://jj-vcs.dev)
+1. [`espanso`](https://espanso.org), with Erich's [`espanso` dotfiles
+   repo](https://github.com/erichdongubler-dotfiles/espansoo)
+1. `mdlink` with Erich's
+   [`mdlink`](https://github.com/erichdongubler-dotfiles/mdlink)
+   dotfiles
 1. [`neovim`](https://github.com/neovim/neovim), with Erich's [`neovim`
    dotfiles repo](https://github.com/erichdongubler-dotfiles/neovim)
 1. [`fzf`](https://github.com/junegunn/fzf)
