@@ -49,7 +49,6 @@ track of, esp. when automating a new platform. This document does that for me.
 1. `mdlink` with Erich's
    [`mdlink`](https://github.com/erichdongubler-dotfiles/mdlink)
    dotfiles
-1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [`bellboy`](https://github.com/erichdongubler/bellboy) -- for dotfiles
    management
 1. [`nushell`](https://github.com/nushell/nushell), which implements
