@@ -18,11 +18,13 @@ track of, esp. when automating a new platform. This document does that for me.
    source control somewhere. Most useful for embedded devices or servers
    that I wouldn't benefit from setting up a desktop environment
    for. Production debugging and fixing, for example.
+
 1. `productive`: The majority of my environment, containing:
    1. Preferred input methods
    1. Screen capturing
    1. Web browsing ecosystem
    1. Software developer environment
+
 1. `full`: The final difficult-to-obtain window management behaviors that
    I prefer.
 
