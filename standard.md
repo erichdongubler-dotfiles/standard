@@ -49,6 +49,8 @@ track of, esp. when automating a new platform. This document does that for me.
       [`starship`](https://starship.rs), with Erich's [`starship`
       dotfiles
       repo](https://github.com/erichdongubler-dotfiles/starship)
+1. [`atuin`](https://github.com/atuinsh/atuin), with Erich's [`atuin` dotfiles
+   repo](https://github.com/erichdongubler-dotfiles/atuin)
 1. [`firefox`](https://firefox.com)
 1. A terminal that supports subsequent terminal UIs, preferably
    [`wezterm`](https://github.com/wezfurlong/wezterm)
@@ -74,8 +76,6 @@ track of, esp. when automating a new platform. This document does that for me.
 1. [`tokei`](https://github.com/XAMPPRocky/tokei)
 1. [`watchexec`](https://github.com/watchexec/watchexec)
 1. [`zoxide`](https://github.com/ajeetdsouza/zoxide)
-1. [`atuin`](https://github.com/atuinsh/atuin), with Erich's [`atuin` dotfiles
-   repo](https://github.com/erichdongubler-dotfiles/atuin)
 
 [preferred shell features]: #preferred-shell-features
 
