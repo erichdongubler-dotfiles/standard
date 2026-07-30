@@ -97,6 +97,7 @@ set. This is independent of machine productivity tier.
 1. [`watchexec`](https://github.com/watchexec/watchexec)
 1. [`zoxide`](https://github.com/ajeetdsouza/zoxide)
 1. [`mergiraf`](https://mergiraf.org/)
+1. [`gh`](https://cli.github.com/)
 
 [preferred shell features]: #preferred-shell-features
 
