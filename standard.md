@@ -45,14 +45,13 @@ set. This is independent of machine productivity tier.
 
 ## Features
 
-| Feature description                                                                   | `minimal` | `productive` | `full` | `tailscale` |
-| ------------------------------------------------------------------------------------- | --------- | ------------ | ------ | ----------- |
-| 1: Installs `git`, `patch`                                                            | ✔         | ✔            | ✔      | -           |
-| 2: Installs an `ssh` client                                                           | ✔         | ✔            | ✔      | -           |
-| 3: Installs [Erich's preferred binaries/applications][preferred-bins] and his config. | ❌        | ✔            | ✔      | -           |
-| 4: Enables focus-follows-mouse                                                        | ❌        | ❌           | ✔      | -           |
-| 5: Enables window dragging with a modifier key (preferably <kbd>Alt</kbd>)            | ❌        | ❌           | ✔      | -           |
-| 6: Registers the device on Erich's personal `tailscale`                               | -         | -            | -      | ✔           |
+| Feature description                                                                        | `minimal` | `productive` | `full` | `tailscale` |
+| ------------------------------------------------------------------------------------------ | --------- | ------------ | ------ | ----------- |
+| 1: Installs `git`, `patch`                                                                 | ✔         | ✔            | ✔      | -           |
+| 2: Installs an `ssh` client                                                                | ✔         | ✔            | ✔      | -           |
+| 3: Installs [Erich's preferred binaries/applications][preferred-bins] and his config.      | ❌        | ✔            | ✔      | -           |
+| 4: Installs an environment that implements [Erich's preferred window management behaviors] |
+| 5: Registers the device on Erich's personal `tailscale`                                    | -         | -            | -      | ✔           |
 
 [preferred-bins]: #preferred-binaries-applications
 
@@ -130,3 +129,8 @@ set. This is independent of machine productivity tier.
    cursor position throughout the process.
    1. <kbd>CTRL</kbd> + <kbd>R</kbd> is preferred to be bound to `atuin`.
 1. Cross-platform scripting support.
+
+## Preferred window management features
+
+1. Enables focus-follows-mouse
+1. Enables window dragging with a modifier key (preferably <kbd>Alt</kbd>)
