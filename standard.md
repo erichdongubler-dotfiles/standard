@@ -96,6 +96,7 @@ set. This is independent of machine productivity tier.
 1. [`tokei`](https://github.com/XAMPPRocky/tokei)
 1. [`watchexec`](https://github.com/watchexec/watchexec)
 1. [`zoxide`](https://github.com/ajeetdsouza/zoxide)
+1. [`mergiraf`](https://mergiraf.org/)
 
 [preferred shell features]: #preferred-shell-features
 
