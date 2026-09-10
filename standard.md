@@ -76,6 +76,9 @@ set. This is independent of machine productivity tier.
    dotfiles repo](https://github.com/erichdongubler-dotfiles/neovim)
 1. [`atuin`](https://github.com/atuinsh/atuin), with Erich's [`atuin` dotfiles
    repo](https://github.com/erichdongubler-dotfiles/atuin)
+1. [`zellij`](https://zellij.dev), with Erich's [`zellij` dotfiles
+   repo](https://github.com/erichdongubler-dotfiles/zellij)
+   1. Use system services to auto-start `zellij web`.
 1. [`espanso`](https://espanso.org), with Erich's [`espanso` dotfiles
    repo](https://github.com/erichdongubler-dotfiles/espansoo)
 1. `mdlink` with Erich's
