@@ -103,6 +103,7 @@ set. This is independent of machine productivity tier.
 1. [`zoxide`](https://github.com/ajeetdsouza/zoxide)
 1. [`mergiraf`](https://mergiraf.org/)
 1. [`gh`](https://cli.github.com/)
+1. [`bat`](https://github.com/sharkdp/bat)
 
 [preferred shell features]: #preferred-shell-features
 
