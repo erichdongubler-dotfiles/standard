@@ -79,6 +79,7 @@ set. This is independent of machine productivity tier.
 1. [`zellij`](https://zellij.dev), with Erich's [`zellij` dotfiles
    repo](https://github.com/erichdongubler-dotfiles/zellij)
    1. Use system services to auto-start `zellij web`.
+1. [`topgrade`]
 1. [`espanso`](https://espanso.org), with Erich's [`espanso` dotfiles
    repo](https://github.com/erichdongubler-dotfiles/espansoo)
 1. `mdlink` with Erich's
