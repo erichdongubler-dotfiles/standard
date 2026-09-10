@@ -1,8 +1,9 @@
-# 0.2.0
+# `erichdongubler-dotfiles/standard`
 
 This standard specifies @ErichDonGubler's preferred desktop environment as a set
-of features and tiers. The remainder of this document will be written in
-first-person.
+of features and tiers, with a version denoted by Git tag.
+
+The remainder of this document will be written in first-person.
 
 ## Why?
 
