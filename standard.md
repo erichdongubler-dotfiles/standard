@@ -79,14 +79,13 @@ set. This is independent of machine productivity tier.
 1. [`zellij`](https://zellij.dev), with Erich's [`zellij` dotfiles
    repo](https://github.com/erichdongubler-dotfiles/zellij)
    1. Use system services to auto-start `zellij web`.
-1. [`topgrade`]
+1. [`topgrade`](https://github.com/topgrade-rs/topgrade)
 1. [`espanso`](https://espanso.org), with Erich's [`espanso` dotfiles
-   repo](https://github.com/erichdongubler-dotfiles/espansoo)
+   repo](https://github.com/erichdongubler-dotfiles/espanso)
 1. `mdlink` with Erich's
    [`mdlink`](https://github.com/erichdongubler-dotfiles/mdlink)
    dotfiles
 1. [`firefox`](https://firefox.com)
-   repo](https://github.com/erichdongubler-dotfiles/espansoo)
 1. [`fzf`](https://github.com/junegunn/fzf)
 1. A good 3-way merge tool, preferably [`meld`](https://meldmerge.org/)
 1. Cargo toolchain
